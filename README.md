@@ -1,4 +1,5 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Language](https://img.shields.io/badge/language-Swift-orange)
 ![Cocoapods](https://badgen.net/badge/icon/cocoapods?icon=cocoapods&label)
 ![Github](https://badgen.net/badge/icon/github?icon=github&label)
 ![Bitcoim](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)
