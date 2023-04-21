@@ -2,6 +2,7 @@
 ![Cocoapods](https://badgen.net/badge/icon/cocoapods?icon=cocoapods&label)
 ![Github](https://badgen.net/badge/icon/github?icon=github&label)
 ![Bitcoim](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)
+![License](https://badgen.net/badge/license/MIT/blue)
 
 **Cryptanil** is iOS library for receiving crypto payments written in Swift(5.8.0).
 
